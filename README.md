@@ -79,6 +79,3 @@ The script includes comprehensive error handling for:
 - Image processing errors
 - File system operations
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
